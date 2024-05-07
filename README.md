@@ -6,6 +6,8 @@
 
 In this article, we delve into the crime trends in San Francisco District, utilizing data sourced from Police Department Incident Reports: Historical 2003 to May 2018 [Dataset](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data). Our focus is on key categories of crimes including robbery, burglary and stolen property. By analyzing these three categories, we aim to provide insights into the prevailing crime landscape in the district.
 
+<a href="map_with_20000_listings.html">View Map</a>
+
 - **Robbery:**
 Robbery, under the law of San Francisco city, is defined as the unlawful taking of property from a person through force or threat of force. This category encompasses crimes where individuals are directly targeted and subjected to violence or intimidation to relinquish their belongings.
 
